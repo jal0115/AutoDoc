@@ -1,0 +1,6 @@
+AutoDoc/
+└── autodoc/
+    ├── .gitignore      ← энд
+    ├── pom.xml
+    └── src/
+    
